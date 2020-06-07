@@ -4,7 +4,7 @@
  * Plugin URI:        https://twitter.com/ozh/status/27858555260
  * GitHub Plugin URI: https://github.com/ozh/too-long-didnt-read
  * Description:       “Excerpt” 👉 “TL;DR”
- * Version:           1.0
+ * Version:           1.0.1
  * Requires at least: 3.0
  * Requires PHP:      5.6
  * Author:            Ozh
