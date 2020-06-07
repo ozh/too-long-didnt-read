@@ -1,10 +1,10 @@
-# :bulb: Plugin Name
+# TL;DR
 
-:bulb: Description
+This fun plugin just replaces the “Excerpt” meta-box with something more meaningful for the Modern Redditor.
 
-> :bulb: Set required secrets in this repo settings: `SVN_USERNAME` and `SVN_PASSWORD`
+Oh, also, it’s a neat example of custom string replacement using a filter over gettext 🙂
 
 ## Dev and download
 
-Development of this plugin happens here on Github. Download the plugin from within your WordPress install, or on https://wordpress.org/plugins/
+Development of this plugin happens here on Github. Download the plugin from within your WordPress install, or on https://wordpress.org/plugins/too-long-didnt-read/
 
