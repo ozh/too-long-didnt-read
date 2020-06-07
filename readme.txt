@@ -17,7 +17,7 @@ Oh, also, it's a neat example of custom string replacement using a filter over g
 
 == Support ==
 
-On [Github](https://github.com/ozh/<plugin name>). I don't read WordPress support forums.
+On [Github](https://github.com/ozh/too-long-didnt-read). I don't read WordPress support forums.
 
 
 == Screenshots ==
